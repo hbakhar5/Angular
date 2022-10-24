@@ -1,0 +1,116 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  form.example input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 80%;
+    background: #f1f1f1;
+  }
+  
+  form.example button {
+    float: left;
+    width: 20%;
+    padding: 10px;
+    background: #2196F3;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none;
+    cursor: pointer;
+  }
+  
+  form.example button:hover {
+    background: #0b7dda;
+  }
+  
+  form.example::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .see{
+    width:330px;
+    margin-left: 600px;
+    margin-top: 50px;
+  }
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 30%;
+    margin-left: 550px;
+    margin-top: 40px;
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(253, 2, 2, 0.925);
+  }
+  
+  .container {
+    padding: 2px 16px;
+  }
+  .cardone {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 30%;
+    margin-left: 550px;
+    margin-top: 30px;
+  }
+  .containerone {
+    padding: 2px 16px;
+  }
+  .cardone:hover {
+    box-shadow: 0 8px 16px 0 rgba(248, 3, 3, 0.925);
+  }
+  .cardtwo {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 30%;
+    margin-left: 550px;
+    margin-top: 30px;
+  }
+  .containertwo {
+    padding: 2px 16px;
+  }
+  .cardtwo:hover {
+    box-shadow: 0 8px 16px 0 rgba(248, 3, 3, 0.925);
+  }
+  .cardthree {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 30%;
+    margin-left: 550px;
+  }
+  .containerthree {
+    padding: 2px 16px;
+  }
+  .cardthree:hover {
+    box-shadow: 0 8px 16px 0 rgba(248, 3, 3, 0.925);
+  }
+  .samana{
+    color:rgb(4, 131, 250);
+    text-shadow: 1px 0 1px black;
+    margin-left: 30%;
+    width:30%;
+    text-decoration:underline ;
+    
+  }
+  .fathima{
+    font-size: 50px;
+    color: red;
+    margin-left: 40%;
+    margin-top: 30px;
+   }
+   .five{
+    width:110px;
+    padding: 0 2px;
+    margin: 0 2px;
+   }
+
+   .none{
+    color:white;
+   }
+

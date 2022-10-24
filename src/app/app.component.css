@@ -1,0 +1,53 @@
+body{
+    font-family: montserrat;
+}
+nav{
+    background-color: rgb(31, 5, 145);
+    height: 100px;
+}
+label.logo{
+    color:white;
+    font-size: 45px;
+    line-height: 90px;
+    padding:0 12px;
+    font-weight: bold;
+    margin-left: 2px;
+}
+nav ul {
+    float: right;
+    margin-right: 20px;
+}
+nav ul li{
+    display: inline-block;
+    line-height: 70px;
+    margin: 0 5px;
+}
+nav ul li a{
+    color:white;
+    font-size: 17px;
+    text-transform: uppercase;
+    border-radius: 3px;
+    padding: 7px 13px;
+}
+.quote{
+    float: left;
+    font-size: 30px;
+    color: blue;
+    text-shadow: 0 1px 1px white;
+}
+.live{
+    padding: 0 12px;
+    height: 30px;
+    background-color: blue;
+    border: 1px solid white;
+    box-sizing: border-box;
+    border-radius: 8px;
+    color: white;
+    cursor: pointer;
+    margin-left: 700px;
+    margin-top: 440px;
+    width: 120px;
+    
+}
+
+

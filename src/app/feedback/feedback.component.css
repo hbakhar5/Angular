@@ -1,0 +1,21 @@
+.bike{
+    color:brown;
+    font-size: large;
+    text-align: center;
+}
+.carthree {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 40%;
+    height: 50%;
+    margin-left: 550px;
+    margin-top: 30px;
+    font-size: 30px;
+  }
+  .busthree {
+    padding: 2px 16px;
+  }
+  .india{
+    float: left;
+    margin-left:500px;
+  }
